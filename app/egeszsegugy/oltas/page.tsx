@@ -65,12 +65,12 @@ export default function Home() {
 			<DapDSBreadcrumb>
 				<DapDSBreadcrumbItem href='/'>Kezdőoldal</DapDSBreadcrumbItem>
 				<DapDSBreadcrumbItem>Egészségügy</DapDSBreadcrumbItem>
-				<DapDSBreadcrumbItem>Laboreredmények digitalizálása</DapDSBreadcrumbItem>
+				<DapDSBreadcrumbItem>Oltások digitalizálása</DapDSBreadcrumbItem>
 			</DapDSBreadcrumb>
 
 			<div style={{paddingTop: 20}} />
 
-			<DapDSTypography variant="h1">Laboreredmények digitalizálása</DapDSTypography>
+			<DapDSTypography variant="h1">Oltások digitalizálása</DapDSTypography>
 			<div style={{maxWidth: 750}}>
 				<DapDSTypography variant="description">
 					Digitalizáld meglévő egészségügyi adataidat
