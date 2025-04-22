@@ -1,0 +1,143 @@
+[
+	{
+		"text": "GOT",
+		"coding": [{
+			"system": "http://snomed.info/sct",
+			"code": "26091008",
+			"text": "Aspartate aminotransferase (substance)"
+		}]
+	}, {
+		"text": "GPT",
+		"coding": [{
+			"system": "http://snomed.info/sct",
+			"code": "56935002",
+			"text": "Alanine aminotransferase (substance)"
+		}]
+	}, {
+		"text": "Gamma GT",
+		"coding": [{
+			"system": "http://snomed.info/sct",
+			"code": "60153001",
+			"text": "Gamma-glutamyltransferase (substance)"
+		}]
+	}, {
+		"text": "Húgysav (Se.)",
+		"coding": [{
+			"system": "http://snomed.info/sct",
+			"code": "1710001",
+			"text": "Uric acid (substance)"
+		}]
+	}, {
+		"text": "Kreatinin (Se.)",
+		"coding": [{
+			"system": "http://snomed.info/sct",
+			"code": "15373003",
+			"text": "Creatinine (substance)"
+		}]
+	}, {
+		"text": "Karbamid (Se.)",
+		"coding": [{
+			"system": "http://snomed.info/sct",
+			"code": "387092000",
+			"text": "Urea (substance)"
+		}]
+	}, {
+		"text": "Vércukor (Éhgyomri)",
+		"coding": [{
+			"system": "http://snomed.info/sct",
+			"code": "67079006",
+			"text": "Glucose (substance)"
+		}]
+	}, {
+		"text": "Nátrium (Se.)",
+		"coding": [{
+			"system": "http://snomed.info/sct",
+			"code": "39972003",
+			"text": "Sodium (substance)"
+		}]
+	}, {
+		"text": "Kálium (Se.)",
+		"coding": [{
+			"system": "http://snomed.info/sct",
+			"code": "88480006",
+			"text": "Potassium (substance)"
+		}]
+	}, {
+		"text": "Vas",
+		"coding": [{
+			"system": "http://snomed.info/sct",
+			"code": "3829006",
+			"text": "Iron (substance)"
+		}]
+	}, {
+		"text": "Triglicerid",
+		"coding": [{
+			"system": "http://snomed.info/sct",
+			"code": "85600001",
+			"text": "Triacylglycerol (substance)"
+		}]
+	}, {
+		"text": "Koleszterin",
+		"coding": [{
+			"system": "http://snomed.info/sct",
+			"code": "84698008",
+			"text": "Cholesterol (substance)"
+		}]
+	}, {
+		"text": "CPR",
+		"coding": [{
+			"system": "http://snomed.info/sct",
+			"code": "61425002",
+			"text": "C reactive protein (substance)"
+		}]
+	}, {
+		"text": "ALP (Se.)",
+		"coding": [{
+			"system": "http://snomed.info/sct",
+			"code": "57056007",
+			"text": "Alkaline phosphatase (substance)"
+		}]
+	}, {
+		"text": "Bilirubin összes",
+		"coding": [{
+			"system": "http://snomed.info/sct",
+			"code": "79706000",
+			"text": "Bilirubin (substance)"
+		}]
+	}, {
+		"text": "eGFR",
+		"coding": [{
+			"system": "http://snomed.info/sct",
+			"code": "86960007",
+			"text": "Epidermal growth factor receptor (substance)"
+		}]
+	}, {
+		"text": "TSH",
+		"coding": [{
+			"system": "http://snomed.info/sct",
+			"code": "65428006",
+			"text": "Thyrotrophin (substance)"
+		}]
+	}, {
+		"text": "Fehérvérsejtszám",
+		"coding": [{
+			"system": "http://snomed.info/sct",
+			"code": "52501007",
+			"text": "Leukocyte (cell)"
+		}]
+	}, {
+		"text": "Vörösvérsejtszám",
+		"coding": [{
+			"system": "http://snomed.info/sct",
+			"code": "41898006",
+			"text": "Erythrocyte (cell)"
+		}]
+	}, {
+		"text": "Hemoglobin",
+		"coding": [{
+			"system": "http://snomed.info/sct",
+			"code": "38082009",
+			"text": "Hemoglobin (substance)"
+		}]
+	}
+]

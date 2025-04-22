@@ -1,6 +1,6 @@
-'use client';
+'use client'
 
-import { ReactNode, useEffect } from 'react';
+import { ReactNode, useEffect } from 'react'
 
 export default function ClientApplication({
   children,
@@ -9,11 +9,11 @@ export default function ClientApplication({
 }) {
   useEffect(() => {
     async function getComponents() {
-      await import('dap-design-system/dist/dds');
+      await import('dap-design-system/dist/dds')
     }
 
     getComponents()
-  }, []);
+  }, [])
 
-  return children;
+  return children
 }

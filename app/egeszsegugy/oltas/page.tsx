@@ -2,6 +2,10 @@
 
 import dynamic from 'next/dynamic';
 
+const DapDSAccordion = dynamic(() =>
+	import('dap-design-system/dist/react').then((mod) => mod.DapDSAccordionReact),
+	{ ssr: false }
+);
 const DapDSTypography = dynamic(() =>
 	import('dap-design-system/dist/react').then((mod) => mod.DapDSTypographyReact),
 	{ ssr: false }
@@ -128,6 +132,13 @@ export default function Home() {
 					<DapDSTypography variant="body">Vizsgálat ideje</DapDSTypography>
 					<DapDSDatePicker />
 				</div>
+
+				<div style={{paddingTop: 20}} />
+
+				<DapDSAccordion>
+					<span slot="heading">Haladó beállítások</span>
+					<DapDSTypography variant="body">Oltás típusa</DapDSTypography>
+				</DapDSAccordion>
 			</div></DapDSCard>
 
 			<div style={{paddingTop: 20}} />

@@ -10,8 +10,11 @@
   },
   "dependencies": {
     "@types/fhir": "^0.0.41",
-    "dap-design-system": "^0.35.0",
+    "dap-design-system": "^0.35.5",
+    "got": "^14.4.7",
     "next": "15.3.1",
+    "node-jose": "^2.2.0",
+    "pako": "^2.1.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
@@ -19,6 +22,8 @@
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
+    "@types/node-jose": "^1.1.13",
+    "@types/pako": "^2.0.3",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",

@@ -1,0 +1,24 @@
+[
+	{
+		"text": "Vér",
+		"coding": [{
+			"system": "http://snomed.info/sct",
+			"code": "87612001",
+			"text": "Blood (substance)"
+		}]
+	}, {
+		"text": "Vizelet",
+		"coding": [{
+			"system": "http://snomed.info/sct",
+			"code": "78014005",
+			"text": "Urine (substance)"
+		}]
+	}, {
+		"text": "Széklet",
+		"coding": [{
+			"system": "http://snomed.info/sct",
+			"code": "39477002",
+			"text": "Stool (substance)"
+		}]
+	}
+]
